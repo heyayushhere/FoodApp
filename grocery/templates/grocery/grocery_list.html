@@ -1,0 +1,7 @@
+<!-- grocery/templates/grocery/grocery_list.html -->
+<h1>Grocery List</h1>
+<ul>
+  {% for item in items %}
+    <li>{{ item.item }} (Expiry Date: {{ item.expiry_date }})</li>
+  {% endfor %}
+</ul>
