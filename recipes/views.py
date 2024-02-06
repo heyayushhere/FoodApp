@@ -7,7 +7,7 @@ from .forms import RecipeForm,PerishableItemForm
 from .models import Recipe,PerishableItem
 
 def generate_recipe(request):
-    openai.api_key= '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'
+    openai.api_key= ''
     if request.method == 'POST':
         form = RecipeForm(request.POST)
 
