@@ -38,6 +38,7 @@ FoodApp aims to reduce food waste by:
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
+![FoodApp Logo](1.png)
 
 1. Clone the repository: `git clone <repository-url>`
 2. Install the required dependencies: `pip install -r requirements.txt`
