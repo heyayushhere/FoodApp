@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Start the development server: `python manage.py runserver`
 4. Access the application in your browser at `http://localhost:8000`
-5. <video src="https://www.loom.com/share/6b324ee09bb74de19aa89885f5a8f9cb?sid=ce457b77-16bf-4b2f-9ffa-a8a69b5a6a37"></video>
+5. [<video src="https://www.loom.com/share/6b324ee09bb74de19aa89885f5a8f9cb?sid=ce457b77-16bf-4b2f-9ffa-a8a69b5a6a37"></video>](https://www.loom.com/share/6b324ee09bb74de19aa89885f5a8f9cb?sid=6e07f3b2-1c5b-40df-a064-94566e7a4c2c)
 
 ## 🤝 Contributing
 
